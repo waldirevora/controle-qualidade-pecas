@@ -6,7 +6,7 @@
 **Aluno:** Waldir Adilson Évora dos Santos  
 **RA:** 263388  
 **GitHub:** https://github.com/waldirevora/controle-qualidade-pecas  
-**Vídeo no YouTube:** https://youtu.be/REhblMAAzMI  
+**Vídeo no YouTube:** https://youtu.be/m2e4H0mH9pg 
 
 ## Sobre o projeto
 
