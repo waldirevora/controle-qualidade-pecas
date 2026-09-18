@@ -5,6 +5,8 @@
 **Disciplina:** Algoritmos e Lógica de Programação  
 **Aluno:** Waldir Adilson Évora dos Santos  
 **RA:** 263388  
+**GitHub:** https://github.com/waldirevora/controle-qualidade-pecas  
+**Vídeo no YouTube:** https://youtu.be/REhblMAAzMI  
 
 ## Sobre o projeto
 
