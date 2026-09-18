@@ -1,3 +1,5 @@
+# Repositório no GitHub: https://github.com/waldirevora/controle-qualidade-pecas  
+# Vídeo no YouTube: https://youtu.be/m2e4H0mH9pg
 
 print()
 print("UniFECAF | Graduação Tecnológica em Inteligência Artificial e Automação Digital")
